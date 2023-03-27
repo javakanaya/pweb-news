@@ -1,0 +1,17 @@
+.dark-mode .content-wrapper {
+    background: #222222;
+    padding: 60px 0;
+  }
+
+  .dark-mode .card-body {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #151515;
+    background-clip: border-box;
+    border: 1px solid #101010;
+    border-radius: 6px;
+    color: #e7e7e7;
+  }
